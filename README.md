@@ -1,2 +1,2 @@
-# RISK-V-Single-Cycle-Core-Processor
-RISK V Single Cycle Core Processor using Verilog
+# RISC-V-Single-Cycle-Core-Processor
+RISC V Single Cycle Core Processor using Verilog
